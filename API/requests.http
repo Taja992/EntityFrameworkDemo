@@ -1,0 +1,12 @@
+﻿GET http://localhost:5288/api/products
+
+
+###
+
+
+POST http://localhost:5288/api/products
+Content-Type: application/json
+
+{
+  "productName": "My Product2"
+}
